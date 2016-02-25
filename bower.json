@@ -1,0 +1,29 @@
+{
+  "name": "react-drawing-app-components",
+  "version": "0.0.0",
+  "description": "drawing-app-components",
+  "main": "dist/react-drawing-app-components.min.js",
+  "homepage": "https://github.com/reccanti/drawing-app-components",
+  "authors": [
+    "Ben Wilcox"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
